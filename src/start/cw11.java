@@ -15,6 +15,7 @@ public class cw11 {
         System.out.println("Hasło:");
         password = scanner.nextLine();
         //---------------------------
+        // homework: napisać wykorzystując else-if
         if (login.equals("admin") && password.equals("admin")) {
             System.out.println(" Witaj adminie");
         } else {
