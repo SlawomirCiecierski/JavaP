@@ -20,14 +20,19 @@ public class cw14 {
         switch (operator) {
             case '+':
                 System.out.printf("%f %c %f", liczba1, operator, liczba2, liczba1 + liczba2);
+                break;
             case '-':
                 System.out.printf("%f %c %f", liczba1, operator, liczba2, liczba1 - liczba2);
+                break;
             case '/':
                 System.out.printf("%f %c %f", liczba1, operator, liczba2, liczba1 / liczba2);
+                break;
             case '*':
                 System.out.printf("%f %c %f", liczba1, operator, liczba2, liczba1 * liczba2);
+                break;
             case '^':
                 System.out.printf("%f %c %f", liczba1, operator, liczba2, pow(liczba1, liczba2));
+                break;
             case '%':
                 System.out.printf("%f %c %f", liczba1, operator, liczba2, liczba1 % liczba2);
                 break;
