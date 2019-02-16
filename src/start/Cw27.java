@@ -1,6 +1,6 @@
 package start;
 
-//Znajdź najmniejszą sumę kolejnych K elementów w tabeli N liczb całkowitych
+//Znajdź najmniejszą sumę kolejnych K (tu: 2) elementów w tabeli N liczb całkowitych
 public class Cw27 {
     public static void main(String[] args) {
         int[] numbers = {1, 2, 1, 1, 5, 6, 9, 8, 9};
