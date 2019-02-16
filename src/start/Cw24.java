@@ -13,7 +13,7 @@ public class Cw24 {
         for (licznik1 = 0; licznik1 < numbers.length; licznik1++) {
             for (licznik2 = 0; licznik2 < numbers.length; licznik2++) {
                 iloraz = (numbers[licznik1]) / (numbers[licznik2]);
-                System.out.println("("+numbers[licznik1] +")/("+ numbers[licznik2]+")=("+iloraz+")");
+                //System.out.println("("+numbers[licznik1] +")/("+ numbers[licznik2]+")=("+iloraz+")");
 
                 if (iloraz < najmniejszyIloraz) {
                     najmniejszyIloraz = iloraz;
