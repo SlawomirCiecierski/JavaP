@@ -1,5 +1,5 @@
 package start;
-
+//Znajdź różnicę między liczbami większymi i mniejszymi od K w tabeli liczb całkowitych.
 public class Cw23a {
     public static void main(String[] args) {
         int[] numbers = {1, 8, 5, 2, 3, 6, 7, 9, 3};

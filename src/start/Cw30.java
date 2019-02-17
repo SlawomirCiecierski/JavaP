@@ -1,5 +1,5 @@
 package start;
-
+//Oblicz ile liczb w tablicy (liczby całkowite) jest mniejszych od średniej wszystkich liczb w tablicy
 public class Cw30 {
     public static void main(String[] args) {
         int[] numbers = {3, 1, 9, 9, 5, 6, 7, 9, 9};

@@ -1,6 +1,6 @@
 package start;
 
-
+//Znajdź najmniejszy iloraz dwóch liczb w tabeli N liczb całkowitych.
 //Zadanie 3ppkt5 najmniejszy iloraz
 public class Cw24 {
     public static void main(String[] args) {

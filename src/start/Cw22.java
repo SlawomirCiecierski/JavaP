@@ -1,5 +1,5 @@
 package start;
-
+//Znajdź różnicę między liczbami większymi i mniejszymi od K w tabeli liczb całkowitych.
 
 public class Cw22 {
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
 package start;
 
-
+//Znajdź najmniejszą sumę K liczb w tabeli N liczb całkowitych (bez sortowania)
 //Zadanie 3ppkt9 najmniejsza suma dwóch liczb
 public class Cw29 {
     public static void main(String[] args) {
