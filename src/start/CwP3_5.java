@@ -1,6 +1,7 @@
 package start;
 
 //Ćwiczenie 5
+
 // Napisz program, który wyświetli wykres dowolnej funkcji z gwiazdek
 // np. przebieg funkcji A*sinus. Liczba gwiazdek w kolejnych wierszach to wartość funkcji,
 // a kolejne wiersze to argumenty funkcji np. zmiana o jakąś część kąta.
